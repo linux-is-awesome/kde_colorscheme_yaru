@@ -1,1 +1,1 @@
-# kde_colorscheme_yaru
+# Yaru color scheme for KDE desktop
