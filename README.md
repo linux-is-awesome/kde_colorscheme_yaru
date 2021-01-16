@@ -1,1 +1,1 @@
-# Yaru color scheme for KDE desktop
+# Yaru color scheme for Plasma desktop
